@@ -18,17 +18,9 @@
 
 ---
 
-### Github Stats
-
-<img align="center" alt="Juan Antonio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Juanaan98&theme=nightowl&show_icons=true&" />
-
 ### Readme Streaks
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Juanaan98&theme=nightowl" alt="Juanaan98" />
-
-### Readme Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juanaan98&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="Juanaan98" />
 
 <br/>
 
